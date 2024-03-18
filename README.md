@@ -1,5 +1,6 @@
 # MinVideo Tools
-- Theseare tools for MinVideo format (.minv/.miv)
+- These are tools for MinVideo format (.minv/.miv).
+- Extract Frames from MinVideo, and convert them to *.png Images.
 
 ## Extra Formats:
 ### MinImage:
