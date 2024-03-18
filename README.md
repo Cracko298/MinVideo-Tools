@@ -2,6 +2,11 @@
 - These are tools for MinVideo format (.minv/.miv).
 - Extract Frames from MinVideo, and convert them to *.png Images.
 
+## Usage:
+```
+python MinImageTool.py help
+```
+
 ## Extra Formats:
 ### MinImage:
 - MinImage is a format designed to be cross-compatible with MinVideo.
