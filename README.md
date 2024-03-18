@@ -1,7 +1,6 @@
 # MinVideo Tools
 - Theseare tools for MinVideo format (.minv/.miv)
 
-
 ## Extra Formats:
 ### MinImage:
 - MinImage is a format designed to be cross-compatible with MinVideo.
@@ -20,5 +19,6 @@ Bytes 0x08 - 0x0B is the Width.
 Bytes 0x0C - 0x0F is the Height.
 Bytes 0x10 - 0x13 is the Width Checksum.
 Bytes 0x14 - 0x17 is the Height Checksum.
-Bytes 0x18 - 0x20 is the Defining the End of the Header Data.
+Bytes 0x18 - 0x1B is the Frame Count of the Video.
+Bytes 0x1C - 0x20 is the Defining the End of the Header Data.
 ```
