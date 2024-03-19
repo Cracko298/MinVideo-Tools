@@ -6,6 +6,10 @@
 ```
 python MinImageTool.py help
 ```
+**or:**
+```
+.\MinImageTool.exe help
+```
 
 ## Extra Formats:
 ### MinImage:
