@@ -12,9 +12,9 @@
 void help() {
     std::cout << "\nExample Usage:\n";
     std::cout << "MinImmageTool.exe get-frames [YourMinVideoPath/File] [YourOptionalOutputPath]\n";
-    std::cout << "        ^                ^          ^                    ^\n";
-    std::cout << "        Executable Name  Command    MinVideo Path      Optional Output Path\n\n";
-    std::cout << "Accepted Flags:\n\n 'get-frames'        - Gets the Frames from a MinVideo File.\n 'convert-frames'    - Converts Frames from MinVideo into *.png\n\n";
+    std::cout << "^                 ^          ^                       ^\n";
+    std::cout << "Executable Name   Command    MinVideo Path           Optional Output Path\n\n";
+    std::cout << "Accepted Flags:\n\n 'get-frames'        - Gets the Frames from a MinVideo File.\n 'help'              - Displays this Message.\n\n";
 }
 
 void frames_to_image(const std::string& file, const std::string& outpath) {
