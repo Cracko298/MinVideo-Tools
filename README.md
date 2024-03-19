@@ -6,7 +6,7 @@
 ```
 python MinImageTool.py help
 ```
-**or:**
+**or...**
 ```
 .\MinImageTool.exe help
 ```
