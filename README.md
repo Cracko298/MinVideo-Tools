@@ -20,7 +20,7 @@ python MinImageTool.py
        upscale         [yourPNGImagePATH]       [yourScaling]               - Upscales *.png Images to get a more clearer Image than the Extracted MinVideo Frames.
 ```
 
-<embed src="https://github.com/Cracko298/MinVideo-Tools/blob/master/_repoFiles/output.gif"></embed>
+![GuinePigs](https://github.com/Cracko298/MinVideo-Tools/blob/master/_repoFiles/output.gif)
 
 
 ## Extra Formats:
