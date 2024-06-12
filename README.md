@@ -43,10 +43,6 @@ Bytes 0x1C - 0x20 is the Defining the End of the Header Data.
 ```
 
 ## Examples:
-- GIF Generated from MinVideo *.minv:
-
-![GuinePigs](https://github.com/Cracko298/MinVideo-Tools/blob/master/_repoFiles/output.gif)
-
 - Image Extracted from MinVideo *.minv:
 
 ![frame_124](https://github.com/Cracko298/MinVideo-Tools/assets/78656905/097b3ccd-7fe8-4f52-b694-1374176a7a10)
@@ -54,3 +50,7 @@ Bytes 0x1C - 0x20 is the Defining the End of the Header Data.
 - Upscaled Image from MinVideo *.minv:
 
 ![frame_124](https://github.com/Cracko298/MinVideo-Tools/assets/78656905/e646a944-7147-40da-a58a-129aeadbc4ed)
+
+- GIF Generated from Upscaled MinVideo *.minv Frames:
+
+![GuinePigs](https://github.com/Cracko298/MinVideo-Tools/blob/master/_repoFiles/output.gif)
