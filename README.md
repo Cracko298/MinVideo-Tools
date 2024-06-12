@@ -15,10 +15,13 @@ python MinImageTool.py
        get-frames      [yourMinVideoFilePATH]   [yourOutputPATH]            - Gets the Frames from a MinVideo File.
        convert-frames  [yourMinImageFolderPATH] [yourPNGOutputPATH]         - Converts Frames from MinVideo *.mimg to *.png Images.
        png-2-gif       [yourPNGFolderPATH]      [yourOutputGIFNameAndPATH]  - Converts *.png Frames extracted from *.minv to *.gif running at a fixed 30FPS. 
-       gif-2-mp4       [yourGIF_PATH]           [yourOutputMP4NameAndPATH]  - Converts the Generated *.gif into a Compressed H.264 Codec MP4 File.
+       gif-2-mp4       *[yourGIF_PATH]          *[yourOutputMP4NameAndPATH] - Converts the Generated *.gif into a Compressed H.264 Codec MP4 File. (File Args aren't currently supported ATM).
        extract-frame   [yourMinVideoFilePATH]   [frameYouWantExtracted]     - Extracts a specified Fream from *.minv instead of Extracting all Frames.
        upscale         [yourPNGImagePATH]       [yourScaling]               - Upscales *.png Images to get a more clearer Image than the Extracted MinVideo Frames.
 ```
+
+<embed src="https://github.com/Cracko298/MinVideo-Tools/blob/master/_repoFiles/output.gif"></embed>
+
 
 ## Extra Formats:
 ### MinImage:
