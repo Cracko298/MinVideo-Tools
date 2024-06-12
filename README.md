@@ -3,6 +3,12 @@
 - Extract Frames from MinVideo, and convert them to *.png Images.
 - Convert Extracted frames into `*.gif`, and then into `*.mp4`.
 
+### Requirements:
+- To install the nessisary requirements for `MinImageTool.py` please install as provided below:
+```
+pip install -r .\requirements.txt
+```
+
 ## Usage:
 ```
 python MinImageTool.py
